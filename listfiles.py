@@ -1,3 +1,5 @@
+#Python script to list all files in a directory with a specific extension
+
 import os
 
 def list_files_with_extension(directory, extension):
